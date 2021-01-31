@@ -1,0 +1,35 @@
+:root {
+  --primaryColor: #a786df;
+  --secondaryColor: #0e172c;
+
+  --borderColor: #070707;
+
+  --mainText: #fff;
+  --secondaryText: #eeeeee;
+
+  --themeDotborder: rgb(0, 0, 0);
+
+  --previewBg: rgb(2, 2, 2);
+
+  --previewShadow: #d9d4e7;
+
+  --buttonColor: black;
+}
+
+/*:root {
+  --BGColor: #fdfdfd;
+  --secondaryColor: #192734;
+
+  --borderColor: #070707;
+
+  --mainText: #fff;
+  --secondaryText: #eeeeee;
+
+  --themeDotborder: rgb(0, 0, 0);
+
+  --previewBg: rgb(25, 39, 0.8);
+
+  --previewShadow: #f7fafd;
+
+  --buttonColor: black;
+} */
